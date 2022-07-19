@@ -1,0 +1,20 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_reference_limitations.html 
+keywords: saas backup, partner central, microsoft 365, problems, limitations 
+summary: Eine Liste bekannter Probleme und Einschränkungen. 
+---
+= Bekannte Probleme und Einschränkungen
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Es gibt folgende Einschränkungen:
+
+* Partner können Mandanten nicht auf Basis delegierter Berechtigungen in die Onboarding integrieren.
+

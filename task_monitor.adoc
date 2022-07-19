@@ -1,0 +1,57 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_monitor.html 
+keywords: saas backup, partner central, microsoft 365, monitor, backup, sync, restore, jobs 
+summary: Sie können SaaS Backup für Microsoft 365 Backup-, Sync- und Restore-Jobs für Ihre Kunden in SaaS Backup Partner Central überwachen. 
+---
+= Überwachen von Kundenjobs
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+In SaaS Backup Partner Central können Sie Backup-, Synchronisierungs- und Restore-Jobs für Ihre SaaS Backup für Microsoft 365 Kunden überwachen.
+
+.Schritte
+. Klicken Sie im Dashboard auf *Überwachung*.
++
+image:monitoring.png["Überwachungsseite"]
+
++
+In *Monitoring* können Sie die Jobhistorie für Ihre Kunden auf zwei Registerkarten sehen: *Laufende Jobs* und *abgeschlossene Aufträge*.
+
+. Sie können *laufende Jobs* und *abgeschlossene Aufträge* nach Jobtyp, Servicetyp, Domänenname und Status filtern.
++
+.. Um nach Jobtyp zu filtern, klicken Sie unter *Jobtyp* auf *Filter* und wählen Sie dann den Jobtyp aus.
++
+image:filter_job_type.png["Nach Jobtyp filtern"]
+
++
+*Jetzt* Jobtypen beziehen sich auf On Demand Jobs.
+
+.. Um nach Servicetyp zu filtern, klicken Sie unter *Servicetyp* auf *Filter* und wählen Sie dann den Dienst aus.
++
+Wählen Sie den Dienst aus:
+
++
+*** Exchange Online
+*** OneDrive for Business
+*** SharePoint Online
+*** Office 365-Gruppen
+
+
+.. Um nach Kunden zu filtern, klicken Sie unter *Domain Name* auf *Filter* und wählen oder suchen Sie die Kundendomäne.
++
+image:filter_customer_domain.png["Nach Kundendomäne filtern"]
+
+.. Um nach Status zu filtern, klicken Sie unter *Status* auf *Filter* und wählen dann den Status aus.
++
+image:filter_job_status.png["Nach Jobstatus filtern"]
+
+
+
+

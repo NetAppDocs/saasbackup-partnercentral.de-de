@@ -1,0 +1,50 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_manage_notifications.html 
+keywords: saas backup, partner central, settings, manage, notifications, add, delete, modify, enable, disable, customize 
+summary: In SaaS Backup Partner Central können Sie Benachrichtigungen für verschiedene Benutzer hinzufügen, ändern und löschen. 
+---
+= Benachrichtigungen verwalten
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+In SaaS Backup Partner Central können Sie Benachrichtigungen für verschiedene Benutzer hinzufügen, ändern und löschen.
+
+Sie können folgende Benachrichtigungen aktivieren oder deaktivieren:
+
+* Benutzer der Rolle hinzufügen
+* Kundenlösch erfolgreich
+* Kunden an Bord des Erfolgs
+* Löschen des Kunden fehlgeschlagen
+* Onboarding-Ausfall des Kunden
+
+
+.Schritte
+. Klicken Sie im Dashboard auf image:settings_icon.png["Einstellungssymbol"].
+. Wählen Sie im Dropdown-Menü die Option *Benachrichtigungen* aus.
++
+image:settings_notifications.png["Einstellungen im Dropdown-Menü Benachrichtigungen auswählen"]
+
+. In *Benachrichtigungsverwaltung* können Sie Benachrichtigungen hinzufügen, ändern und löschen.
++
+image:notification_management_screen.png["Bildschirm Benachrichtigungsverwaltung"]
+
++
+.. Um Benachrichtigungen hinzuzufügen, klicken Sie auf image:add_notification_icon.png["Symbol „Benachrichtigung hinzufügen“"] So fügen Sie einem Benutzer Benachrichtigungen hinzu:
++
+Geben Sie unter *Benachrichtigung hinzufügen* die E-Mail-Adresse für den Benutzer ein. Wählen Sie Benachrichtigungen aus, die Sie aktivieren möchten, und klicken Sie auf *Hinzufügen*.
+
++
+image:add_notifications_screen.png["Benachrichtigungen anpassen"]
+
+.. Um Benachrichtigungen zu ändern, klicken Sie auf image:pencil_icon.png["Bleistiftsymbol"].
+.. Um Benachrichtigungen zu löschen, klicken Sie auf image:delete_icon_blue.png["Symbol Löschen"].
+
+
+
