@@ -17,7 +17,7 @@ NetApp SaaS Backup Partner Central ist eine Schnittstelle, die NetApp Partnern h
 
 
 
-== Entdecken Sie, was neu ist
+== Entdecken Sie die Neuigkeiten
 
 * link:partnercentral_reference_new.html["Versionshinweise"]
 * Produktaktualisierungen, Anleitungen und Informationen zum Zustand Ihrer Dienste finden Sie in der Dashboard-Ansicht *What's New*.
