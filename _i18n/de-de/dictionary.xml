@@ -57,9 +57,7 @@
   <block id="139f45b47f9daef5a0a4ce91311a0f17" category="inline-image-macro">Registrierungsseite</block>
   <block id="c26c724056b7eefe0f611b91b3a77bc9" category="paragraph"><block ref="c26c724056b7eefe0f611b91b3a77bc9" category="inline-image-macro-rx" type="image"></block></block>
   <block id="9909e23ede42f2318acada35ac10bd3e" category="list-text">Klicken Sie Auf *Registrieren*.</block>
-  <block id="f8ae6b0d797d8aa392d4533d9b74db73" category="summary">In Partner Central können Sie Schlüssel für erhöhte Sicherheit hinzufügen und verwalten. Sie finden auch Unterstützung für die PowerShell Cmdlet Interface.</block>
   <block id="4083a031be9d1ce08dde21494d3976f0" category="doc">Schlüssel Verwalten</block>
-  <block id="a308e1de9050f258886ad5097b357575" category="paragraph">Sie können Schlüssel für mehr Sicherheit in Partner Central über die Einstellung *Key Management* hinzufügen und verwalten. Sie finden auch Unterstützung für die PowerShell Cmdlet Interface.</block>
   <block id="9cca82fdcfe9bc5d32d0c7158beec0c9" category="section-title">Tasten hinzufügen</block>
   <block id="e764def590791cf4cdcf76be35dc41af" category="inline-image-macro">Einstellungssymbol</block>
   <block id="83f10fc8f41778740afb2d99d851c6a9" category="list-text">Klicken Sie im Dashboard auf <block ref="af84445977eda1f857a54475e4db9fc6" category="inline-image-macro-rx" type="image"></block>.</block>
@@ -80,13 +78,6 @@
   <block id="3223a0325a3482ca93e76c78f2647235" category="inline-image-macro">Schlüsselsymbol anzeigen</block>
   <block id="e0385137855e45d065623977b5e937b2" category="inline-image-macro">Schlüsselsymbol ausblenden</block>
   <block id="fa2df5a862b7a59888412ac406e74f38" category="list-text">Klicken Sie Auf <block ref="6211f5f3543b18126f5cb4c8b7c04eb3" category="inline-image-macro-rx" type="image"></block> Um den unverschlüsselten Schlüssel anzuzeigen, und klicken Sie auf <block ref="010ee53af5c5f822e0070e45fae2be5d" category="inline-image-macro-rx" type="image"></block> Um den unverschlüsselten Schlüssel auszublenden.</block>
-  <block id="921a0ecfc6730a28879427fd0281ac5f" category="section-title">Laden Sie PowerShell herunter</block>
-  <block id="b3b38b65a04d6e1bae06123cb3d66f6f" category="inline-image-macro">PowerShell Symbol herunterladen</block>
-  <block id="9d3e158be25c2bf7a4465ab3fad7c0d3" category="list-text">Um PowerShell herunterzuladen, klicken Sie auf <block ref="9d346df1ef229d4025c737e49a9aed10" category="inline-image-macro-rx" type="image"></block>.</block>
-  <block id="e5619dd51cac21cf148f2b484e35836d" category="list-text">Installieren Sie das heruntergeladene Programm.</block>
-  <block id="1902fe9260b654df58d39430f970011a" category="list-text">Doppelklicken Sie nach der Programminstallation auf das Symbol für *SaaS Backup PowerShell* auf Ihrem Desktop, um das PowerShell Cmdlet zu starten.</block>
-  <block id="ca8c9c0154398e79648bcd160fc38f6b" category="inline-link-macro">NetApp SaaS Backup PowerShell Leitfaden (TR-4873)</block>
-  <block id="d3ce03733dfdf43d215401ad8a54d319" category="paragraph">Weitere Informationen zur Verwendung des Moduls NetApp SaaS Backup PowerShell finden Sie im <block ref="a0f31f237eb63466a8703284d2872029" category="inline-link-macro-rx"></block>.</block>
   <block id="9050af74f057a108465be3e32ae53b55" category="summary">Sie erhalten Hilfe, weitere Informationen und Feedback in der Benutzeroberfläche von NetApp SaaS Backup Partner Central.</block>
   <block id="3cd12697cda279c9c99b093a265c1ba8" category="doc">Wo Sie Hilfe und weitere Informationen erhalten</block>
   <block id="c48e67c8ed1b729afe73f2b07da8dbcf" category="paragraph">Weitere Informationen finden Sie in der Benutzeroberfläche von NetApp SaaS Backup Partner Central unter *Support*.</block>
@@ -245,4 +236,6 @@
   <block id="125f065ef0a6b33559b191f2a73d9dbe" category="sidebar">Schlüssel managen</block>
   <block id="a340b786a137624da1d053fa7f0bb5ea" category="sidebar">Wo Sie Hilfe erhalten und Informationen finden</block>
   <block id="492e5546e60705134bff8d7f80511a8d" category="section-title">Entdecken Sie die Neuigkeiten</block>
+  <block id="adb037296ec5890668582b7d941e31a7" category="summary">In Partner Central können Sie Schlüssel für erhöhte Sicherheit hinzufügen und verwalten.</block>
+  <block id="c56e63c2fd8bbde29916a0445162e4b2" category="paragraph">Sie können Schlüssel für mehr Sicherheit in Partner Central über die Einstellung *Key Management* hinzufügen und verwalten.</block>
 </blocks>

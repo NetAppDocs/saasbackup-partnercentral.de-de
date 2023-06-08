@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: partnercentral_task_manage_keys.html 
-keywords: saas backup, partner central, key management, manage, key, keys, add, download, PowerShell 
-summary: In Partner Central können Sie Schlüssel für erhöhte Sicherheit hinzufügen und verwalten. Sie finden auch Unterstützung für die PowerShell Cmdlet Interface. 
+keywords: saas backup, partner central, key management, manage, key, keys, add, download, 
+summary: In Partner Central können Sie Schlüssel für erhöhte Sicherheit hinzufügen und verwalten. 
 ---
 = Schlüssel Verwalten
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: In Partner Central können Sie Schlüssel für erhöhte Sicherheit hinz
 
 
 [role="lead"]
-Sie können Schlüssel für mehr Sicherheit in Partner Central über die Einstellung *Key Management* hinzufügen und verwalten. Sie finden auch Unterstützung für die PowerShell Cmdlet Interface.
+Sie können Schlüssel für mehr Sicherheit in Partner Central über die Einstellung *Key Management* hinzufügen und verwalten.
 
 
 
@@ -43,20 +43,3 @@ image:add_key_screen.png["Tastenbildschirm hinzufügen"]
 
 . Klicken Sie Auf image:eye_show_key_icon.png["Schlüsselsymbol anzeigen"] Um den unverschlüsselten Schlüssel anzuzeigen, und klicken Sie auf image:eye_hide_key_icon.png["Schlüsselsymbol ausblenden"] Um den unverschlüsselten Schlüssel auszublenden.
 
-
-
-
-== Laden Sie PowerShell herunter
-
-.Schritte
-. Klicken Sie im Dashboard auf image:settings_icon.png["Einstellungssymbol"].
-. Wählen Sie im Dropdown-Menü * Key Management* aus.
-+
-image:settings_key_management.png["Einstellungen Dropdown-Menü Schlüsselverwaltung"]
-
-. Um PowerShell herunterzuladen, klicken Sie auf image:download_powershell_icon.png["PowerShell Symbol herunterladen"].
-. Installieren Sie das heruntergeladene Programm.
-. Doppelklicken Sie nach der Programminstallation auf das Symbol für *SaaS Backup PowerShell* auf Ihrem Desktop, um das PowerShell Cmdlet zu starten.
-
-
-Weitere Informationen zur Verwendung des Moduls NetApp SaaS Backup PowerShell finden Sie im link:https://fieldportal.netapp.com/content/1255854["NetApp SaaS Backup PowerShell Leitfaden (TR-4873)"].
